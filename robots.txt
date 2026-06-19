@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bs7ph.github.io/portal-web-ayx-com-2/sitemap.xml
